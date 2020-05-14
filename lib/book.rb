@@ -9,6 +9,5 @@ class Book
   end
   
   attr_accessor :author 
-    @author
-  end
+    
 end
